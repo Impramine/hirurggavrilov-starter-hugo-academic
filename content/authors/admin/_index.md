@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Василий Александрович Гаврилов кандидат медицинских наук, врач-хирург высшей категории, колопроктолог, флеболог. Доцент кафедры общей хирургии №1 Пермского государственного медицинского университета. 
 {style="text-align: justify;"}
