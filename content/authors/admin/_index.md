@@ -3,18 +3,18 @@
 title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Василий
+last_name: Гаврилов
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍩
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Врач-хирург высшей категории
 
 # Organizations/Affiliations to show in About widget
 organizations:
