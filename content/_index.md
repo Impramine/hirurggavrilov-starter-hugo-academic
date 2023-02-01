@@ -14,26 +14,26 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Навыки
       items:
-        - name: R
-          description: 90%
+        - name: Общая хирургия
+          description: 100%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Колопроктология
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Флебология
+          description: 100%
           icon: camera-retro
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Опыт работы
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: Sep 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
