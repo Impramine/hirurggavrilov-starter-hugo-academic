@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Врач-хирург высшей категории
+role: к.м.н., врач-хирург высшей категории
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations to show in About widget Организация или членство
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Записаться на прием
+    url: https://t.me/VesnaMedBot
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
